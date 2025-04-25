@@ -16,4 +16,6 @@ I'm a passionate Java Developer from Pakistan, working with:
 - 💼 [LinkedIn](https://www.linkedin.com/in/samreen-koondhar-4636b1301/)  
 
 ### ⚡ GitHub Stats
-![Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreenkoondhar&show_icons=true&theme=radical)
+![Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreenkoondhar&show_icons=true&theme=tokyonight)
+
+
